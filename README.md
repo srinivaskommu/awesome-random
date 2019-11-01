@@ -184,6 +184,7 @@ Firefox has a great set of first issues to start learning how to work with their
 ## Miscellaneous
 - [Docker-removing-containers-images](https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes)
 - [Task Switching](https://www.joelonsoftware.com/2001/02/12/human-task-switches-considered-harmful/) - An interesting write-up on why task switching is so costly for engineers
+-[Developer Must Know] (https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)-Know About Unicode and Character Sets
 
 ## ES6
 
